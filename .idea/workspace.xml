@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d4cd0e4-df53-4883-a8ed-e06b3723cda7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Heapq/tree" />
+  </component>
+  <component name="ProjectId" id="1U5IscdYxG4TMefWF3OkYi5w6Ly" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;HgIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="AtCoder_study" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="AtCoder_study" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Math" />
+      <recent name="$PROJECT_DIR$/Heapq" />
+      <recent name="$PROJECT_DIR$/Bisect" />
+      <recent name="$PROJECT_DIR$/Que" />
+      <recent name="$PROJECT_DIR$/BFS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Recursive function" />
+      <recent name="$PROJECT_DIR$/DP/Digit_DP" />
+      <recent name="$PROJECT_DIR$/Math" />
+      <recent name="$PROJECT_DIR$/BFS" />
+      <recent name="$PROJECT_DIR$/DFS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ABC043_A">
+    <configuration name="ABC043_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ABC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC043_A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC138_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ABC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC138_A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC138_B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ABC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC138_B.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC138_C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ABC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC138_C.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC139_D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ABC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC139_D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ABC043_A" />
+        <item itemvalue="Python.ABC138_C" />
+        <item itemvalue="Python.ABC138_B" />
+        <item itemvalue="Python.ABC138_A" />
+        <item itemvalue="Python.ABC139_D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d4cd0e4-df53-4883-a8ed-e06b3723cda7" name="Default Changelist" comment="" />
+      <created>1574640236663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574640236663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="731" height="216" key="GridCell.Tab.0.bottom" timestamp="1583894586248">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="247" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583820919790" />
+    <state width="1419" height="235" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1578726123151" />
+    <state width="689" height="202" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1580773400185" />
+    <state width="731" height="216" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1583894586248" />
+    <state width="708" height="226" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1583222159901" />
+    <state width="731" height="216" key="GridCell.Tab.0.center" timestamp="1583894586247">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="247" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583820919789" />
+    <state width="1419" height="235" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1578726123150" />
+    <state width="689" height="202" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1580773400184" />
+    <state width="731" height="216" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1583894586247" />
+    <state width="708" height="226" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1583222159900" />
+    <state width="731" height="216" key="GridCell.Tab.0.left" timestamp="1583894586247">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="247" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583820919788" />
+    <state width="1419" height="235" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1578726123150" />
+    <state width="689" height="202" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1580773400183" />
+    <state width="731" height="216" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1583894586247" />
+    <state width="708" height="226" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1583222159898" />
+    <state width="731" height="216" key="GridCell.Tab.0.right" timestamp="1583894586248">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="247" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583820919789" />
+    <state width="1419" height="235" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1578726123151" />
+    <state width="689" height="202" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1580773400185" />
+    <state width="731" height="216" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1583894586248" />
+    <state width="708" height="226" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1583222159901" />
+    <state width="787" height="302" key="GridCell.Tab.1.bottom" timestamp="1583756003794">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="787" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583756003794" />
+    <state width="1419" height="265" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1578726123142" />
+    <state width="787" height="302" key="GridCell.Tab.1.center" timestamp="1583756003793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="787" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583756003793" />
+    <state width="1419" height="265" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1578726123140" />
+    <state width="787" height="302" key="GridCell.Tab.1.left" timestamp="1583756003792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="787" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583756003792" />
+    <state width="1419" height="265" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1578726123140" />
+    <state width="787" height="302" key="GridCell.Tab.1.right" timestamp="1583756003794">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="787" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583756003794" />
+    <state width="1419" height="265" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1578726123141" />
+    <state x="229" y="76" key="SettingsEditor" timestamp="1583901911322">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="229" y="57" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582377195324" />
+    <state x="229" y="75" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1578702252784" />
+    <state x="229" y="75" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1580189910663" />
+    <state x="229" y="76" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1583901911322" />
+    <state x="482" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583801690829">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1583801690829" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1583740174390">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1583740174390" />
+    <state x="385" y="174" width="670" height="678" key="search.everywhere.popup" timestamp="1583901789475">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="385" y="164" width="670" height="736" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582377156243" />
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1579215194669" />
+    <state x="385" y="174" width="670" height="678" key="search.everywhere.popup/0.23.1440.828@0.23.1440.828" timestamp="1580189885889" />
+    <state x="385" y="174" width="670" height="678" key="search.everywhere.popup/0.23.1440.829@0.23.1440.829" timestamp="1583901789475" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ABC/ABC146_C.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ABC/ABC145_D.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

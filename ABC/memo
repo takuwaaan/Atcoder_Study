@@ -1,0 +1,36 @@
+4_ARC 004
+最長距離の探索
+・n個のx yの入力方法
+・平方根・二乗の例
+4_ABC 051 B
+x　yの全探索（x＋y＋z＝s）
+・forを二階で（以前できたのにできなかった。。。）
+5_ABC 090 B
+十進法、回文判定
+・defを利用したものだとTLEになる？なぜ。
+　whileで一個一個処理するのが重いのか？
+5_AGC 025 A
+十進法、入力n内の組み合わせ最小値
+・やはり動作が非常に遅い。。。
+6_AGC 012 A - AtCoder Group Contest
+3Nのチーム、最大から２番目の最大和
+・２個飛ばしのfor文
+7_ABC 071 B - Not Found
+アルファベット無い文字の最小文字を出力
+・リストにアルファベット生成、置換と検索
+7_ABC 047 B - Snuke's Coloring 2 (ABC Edit)　
+塗り潰し
+・二次元配列生成は効率悪そうなので避ける
+7_ABC 091 B Two Colors Card Game
+・解けてない！
+8_ABC 088 C - Takahashi's Information
+・よくわからんかったら書いてみよう
+　（入力と出力の判定流れを）そこから法則を見つける
+8_ARC 096 C - Half and Half
+・for文一個で書いてみる
+これも入力と出力をひとまず順を追って書いてみると見えてくる
+8_ABC 057 C - Digits in Multiplication
+・A＊B＝B＊Aの性質を利用
+ヒントが出されてしまっていたが、これも順を追って書いてみるとわかったかも
+8_ABC 074 C - Sugar Water
+・眠いのであとで...
