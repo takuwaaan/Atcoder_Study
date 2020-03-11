@@ -7,6 +7,7 @@ input = sys.stdin.readline
 
 
 def main():
+
     N, M = map(int, input().split())
     A = list(map(lambda x: int(x) * (-1), input().split()))
     heapq.heapify(A)
