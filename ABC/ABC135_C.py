@@ -1,4 +1,4 @@
-#https://www.planeta.tokyo/abc-135
+# https://www.planeta.tokyo/abc-135
 
 N = int(input())
 A = list(map(int, input().split()))

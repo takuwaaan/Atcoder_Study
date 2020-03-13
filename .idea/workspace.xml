@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d4cd0e4-df53-4883-a8ed-e06b3723cda7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABC/ABC133_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC133_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC133_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC134_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC134_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC134_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC135_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC135_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC135_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC136_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC136_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC136_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC136_D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Run_length/ABC136_D_runlength.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Run_length/ABC140_D_face_unhappy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC129_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC129_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC130_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC130_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC130_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC131_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC131_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC131_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC132_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC132_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC132_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC134_D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/ABC133_C_mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse/ABC134_D_bit_xor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC135_C.py" beforeDir="false" afterPath="$PROJECT_DIR$/ABC/ABC135_C.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;HgIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Run_length" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bit" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -56,13 +56,6 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Run_length" />
-      <recent name="$PROJECT_DIR$/DFS" />
-      <recent name="$PROJECT_DIR$/Math" />
-      <recent name="$PROJECT_DIR$/Heapq" />
-      <recent name="$PROJECT_DIR$/Bisect" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Recursive function" />
       <recent name="$PROJECT_DIR$/DP/Digit_DP" />
@@ -70,9 +63,16 @@
       <recent name="$PROJECT_DIR$/BFS" />
       <recent name="$PROJECT_DIR$/DFS" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bit" />
+      <recent name="$PROJECT_DIR$/Math" />
+      <recent name="$PROJECT_DIR$/Run_length" />
+      <recent name="$PROJECT_DIR$/DFS" />
+      <recent name="$PROJECT_DIR$/Heapq" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.ABC133_C">
-    <configuration name="ABC133_B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ABC129_B">
+    <configuration name="ABC129_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC133_B.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC129_A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC133_C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC129_B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC133_C.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC129_B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC134_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC130_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC134_A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC130_A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC134_B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC130_B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC134_B.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC130_B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC134_C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC130_C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC134_C.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC130_C.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ABC133_C" />
-        <item itemvalue="Python.ABC133_B" />
-        <item itemvalue="Python.ABC134_C" />
-        <item itemvalue="Python.ABC134_B" />
-        <item itemvalue="Python.ABC134_A" />
+        <item itemvalue="Python.ABC129_B" />
+        <item itemvalue="Python.ABC129_A" />
+        <item itemvalue="Python.ABC130_C" />
+        <item itemvalue="Python.ABC130_B" />
+        <item itemvalue="Python.ABC130_A" />
       </list>
     </recent_temporary>
   </component>
@@ -218,37 +218,37 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="731" height="216" key="GridCell.Tab.0.bottom" timestamp="1584061827403">
+    <state width="731" height="216" key="GridCell.Tab.0.bottom" timestamp="1584085265659">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1419" height="247" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583820919790" />
     <state width="1419" height="235" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1578726123151" />
     <state width="689" height="202" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1580773400185" />
-    <state width="731" height="216" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1584061827403" />
+    <state width="731" height="216" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1584085265659" />
     <state width="708" height="226" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1583222159901" />
-    <state width="731" height="216" key="GridCell.Tab.0.center" timestamp="1584061827402">
+    <state width="731" height="216" key="GridCell.Tab.0.center" timestamp="1584085265658">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1419" height="247" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583820919789" />
     <state width="1419" height="235" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1578726123150" />
     <state width="689" height="202" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1580773400184" />
-    <state width="731" height="216" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1584061827402" />
+    <state width="731" height="216" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1584085265658" />
     <state width="708" height="226" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1583222159900" />
-    <state width="731" height="216" key="GridCell.Tab.0.left" timestamp="1584061827401">
+    <state width="731" height="216" key="GridCell.Tab.0.left" timestamp="1584085265658">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1419" height="247" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583820919788" />
     <state width="1419" height="235" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1578726123150" />
     <state width="689" height="202" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1580773400183" />
-    <state width="731" height="216" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1584061827401" />
+    <state width="731" height="216" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1584085265658" />
     <state width="708" height="226" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1583222159898" />
-    <state width="731" height="216" key="GridCell.Tab.0.right" timestamp="1584061827402">
+    <state width="731" height="216" key="GridCell.Tab.0.right" timestamp="1584085265658">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1419" height="247" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583820919789" />
     <state width="1419" height="235" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1578726123151" />
     <state width="689" height="202" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1580773400185" />
-    <state width="731" height="216" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1584061827402" />
+    <state width="731" height="216" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1584085265658" />
     <state width="708" height="226" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1583222159901" />
     <state width="731" height="264" key="GridCell.Tab.1.bottom" timestamp="1583998409539">
       <screen x="0" y="23" width="1440" height="829" />
