@@ -1,14 +1,15 @@
-import math
-
 N = int(input())
 W = list(map(int,input().split()))
+L_count = 0
+R_count = 0
+div = 100000
 s = sum(W)
-count = 0
 for i in range(N):
-    count += W[i]
-    if count >= s/2 and i < N-1:
-        print(abs(2*count - s))
-        break
-    elif i == N-1:
-        count -= W[-1]
-        print(abs(count - W[-1]))
+    L_count += W[i]
+    R_count = s - L_count
+    d = abs(L_count-R_count)
+    if div > d:
+        div = d
+print(div)
+
+

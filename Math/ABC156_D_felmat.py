@@ -1,6 +1,6 @@
 n, a, b = map(int, input().split())
 mod = 10 ** 9 + 7
-#2 ** n はだめ
+#2 ** n は入力が10**9となった場合にオーバーフロー
 n_max = pow(2, n, mod) - 1
 
 
