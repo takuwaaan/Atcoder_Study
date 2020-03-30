@@ -2,99 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d4cd0e4-df53-4883-a8ed-e06b3723cda7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABC/ABC10_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC11_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC12_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC13_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC14_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC15_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC16_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC17_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC18_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC19_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC20_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC21_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC22_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC23_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC24_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC25_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC26_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC27_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC28_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC29_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC2_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC30_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC31_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC32_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC33_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC34_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC35_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC36_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC37_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC38_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC39_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC3_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC40_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC41_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC4_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC51_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC52_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC53_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC54_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC55_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC56_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC57_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC58_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC59_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC5_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC60_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC61_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC62_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC63_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC64_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC65_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC66_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC67_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC68_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC69_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC6_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC70_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC71_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC72_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC73_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC74_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC75_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC76_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC77_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC78_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC79_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC7_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC80_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC81_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC82_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC83_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC84_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC85_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC86_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC87_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC88_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC89_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC8_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC90_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC91_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC92_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC93_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC93_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC93_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC94_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC94_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC94_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC95_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC95_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC95_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC/ABC9_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC129_C2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC130_C2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC131_C2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC133_C2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC135_C2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC137_C2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC146_C2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC149_D2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC151_C2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC43_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC47_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC52_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC53_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC55_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC55_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC56_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC56_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC57_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC58_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC59_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC60_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC62_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC63_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC63_B2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC64_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC65_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC66_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC70_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC71_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC73_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC74_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC75_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC76_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC77_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC78_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC79_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC80_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC82_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC84_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC86_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC89_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC91_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC/ABC92_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARC/ARC088_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difficult/ABC128_C_Swithces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difficult/ABC129_C2_DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difficult/ABC133_C2_mod2019_範囲指定.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difficult/ABC135_C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difficult/ABC137_C2_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difficult/ABC149_D_ジャンケン_not_DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Difficult/ABC151_C2_ACWA_テストケースに罠.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/ABC55_B_mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moji/ABC71_B_alfa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/ABC58_B.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC104_B.py" beforeDir="false" afterPath="$PROJECT_DIR$/ABC/ABC104_B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC135_C.py" beforeDir="false" afterPath="$PROJECT_DIR$/ABC/ABC135_C.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +84,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;HgIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/zip" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Difficult" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -134,22 +97,22 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Difficult" />
       <recent name="$PROJECT_DIR$/ABC" />
       <recent name="$PROJECT_DIR$/Recursive function" />
       <recent name="$PROJECT_DIR$/DP/Digit_DP" />
       <recent name="$PROJECT_DIR$/Math" />
-      <recent name="$PROJECT_DIR$/BFS" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Difficult" />
+      <recent name="$PROJECT_DIR$/Nigate" />
+      <recent name="$PROJECT_DIR$/Math" />
       <recent name="$PROJECT_DIR$/zip" />
       <recent name="$PROJECT_DIR$/moji" />
-      <recent name="$PROJECT_DIR$/set" />
-      <recent name="$PROJECT_DIR$/Bit fullsearch " />
-      <recent name="$PROJECT_DIR$/ABC" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ABC3_A">
-    <configuration name="ABC13_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ABC128_C_Swithces">
+    <configuration name="ABC128_C_Swithces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ABC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Difficult" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC13_A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Difficult/ABC128_C_Swithces.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC14_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC129_C2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC14_A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC129_C2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC15_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC130_C2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC15_A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC130_C2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC3_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC149_D2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC3_A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC149_D2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC9_A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ABC151_C2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AtCoder_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +208,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC9_A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/ABC151_C2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ABC3_A" />
-        <item itemvalue="Python.ABC9_A" />
-        <item itemvalue="Python.ABC13_A" />
-        <item itemvalue="Python.ABC14_A" />
-        <item itemvalue="Python.ABC15_A" />
+        <item itemvalue="Python.ABC128_C_Swithces" />
+        <item itemvalue="Python.ABC151_C2" />
+        <item itemvalue="Python.ABC149_D2" />
+        <item itemvalue="Python.ABC129_C2" />
+        <item itemvalue="Python.ABC130_C2" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +258,7 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="709" height="215" key="GridCell.Tab.0.bottom" timestamp="1585122518255">
+    <state width="709" height="215" key="GridCell.Tab.0.bottom" timestamp="1585575841488">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1419" height="247" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583820919790" />
@@ -303,10 +266,10 @@
     <state width="689" height="202" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1580773400185" />
     <state width="731" height="216" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1584570754629" />
     <state width="708" height="226" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1583222159901" />
-    <state width="709" height="215" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1585122518255" />
+    <state width="709" height="215" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1585575841488" />
     <state width="731" height="216" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1584621147335" />
     <state width="731" height="216" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584581015858" />
-    <state width="709" height="215" key="GridCell.Tab.0.center" timestamp="1585122518254">
+    <state width="709" height="215" key="GridCell.Tab.0.center" timestamp="1585575841487">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1419" height="247" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583820919789" />
@@ -314,10 +277,10 @@
     <state width="689" height="202" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1580773400184" />
     <state width="731" height="216" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1584570754627" />
     <state width="708" height="226" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1583222159900" />
-    <state width="709" height="215" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1585122518254" />
+    <state width="709" height="215" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1585575841487" />
     <state width="731" height="216" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1584621147333" />
     <state width="731" height="216" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1584581015857" />
-    <state width="709" height="215" key="GridCell.Tab.0.left" timestamp="1585122518253">
+    <state width="709" height="215" key="GridCell.Tab.0.left" timestamp="1585575841486">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1419" height="247" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583820919788" />
@@ -325,10 +288,10 @@
     <state width="689" height="202" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1580773400183" />
     <state width="731" height="216" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1584570754626" />
     <state width="708" height="226" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1583222159898" />
-    <state width="709" height="215" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1585122518253" />
+    <state width="709" height="215" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1585575841486" />
     <state width="731" height="216" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1584621147333" />
     <state width="731" height="216" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1584581015855" />
-    <state width="709" height="215" key="GridCell.Tab.0.right" timestamp="1585122518255">
+    <state width="709" height="215" key="GridCell.Tab.0.right" timestamp="1585575841488">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="1419" height="247" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583820919789" />
@@ -336,40 +299,40 @@
     <state width="689" height="202" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1580773400185" />
     <state width="731" height="216" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1584570754628" />
     <state width="708" height="226" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1583222159901" />
-    <state width="709" height="215" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1585122518255" />
+    <state width="709" height="215" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1585575841488" />
     <state width="731" height="216" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1584621147334" />
     <state width="731" height="216" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1584581015858" />
-    <state width="709" height="264" key="GridCell.Tab.1.bottom" timestamp="1585121546057">
+    <state width="709" height="264" key="GridCell.Tab.1.bottom" timestamp="1585296245498">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="787" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583756003794" />
     <state width="1419" height="265" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1578726123142" />
     <state width="731" height="264" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1584511494502" />
-    <state width="709" height="264" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1585121546057" />
+    <state width="709" height="264" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1585296245498" />
     <state width="731" height="264" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1584579952149" />
-    <state width="709" height="264" key="GridCell.Tab.1.center" timestamp="1585121546056">
+    <state width="709" height="264" key="GridCell.Tab.1.center" timestamp="1585296245498">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="787" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583756003793" />
     <state width="1419" height="265" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1578726123140" />
     <state width="731" height="264" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1584511494501" />
-    <state width="709" height="264" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1585121546056" />
+    <state width="709" height="264" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1585296245498" />
     <state width="731" height="264" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1584579952148" />
-    <state width="709" height="264" key="GridCell.Tab.1.left" timestamp="1585121546056">
+    <state width="709" height="264" key="GridCell.Tab.1.left" timestamp="1585296245497">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="787" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583756003792" />
     <state width="1419" height="265" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1578726123140" />
     <state width="731" height="264" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1584511494501" />
-    <state width="709" height="264" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1585121546056" />
+    <state width="709" height="264" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1585296245497" />
     <state width="731" height="264" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1584579952148" />
-    <state width="709" height="264" key="GridCell.Tab.1.right" timestamp="1585121546056">
+    <state width="709" height="264" key="GridCell.Tab.1.right" timestamp="1585296245498">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="787" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583756003794" />
     <state width="1419" height="265" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1578726123141" />
     <state width="731" height="264" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1584511494501" />
-    <state width="709" height="264" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1585121546056" />
+    <state width="709" height="264" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1585296245498" />
     <state width="731" height="264" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1584579952149" />
     <state x="229" y="76" key="SettingsEditor" timestamp="1583902471974">
       <screen x="0" y="23" width="1440" height="829" />
@@ -414,6 +377,11 @@
           <url>file://$PROJECT_DIR$/ABC/ABC136_D.py</url>
           <line>14</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ABC/ABC59_B.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
